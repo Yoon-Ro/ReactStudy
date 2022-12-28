@@ -1,5 +1,6 @@
 import * as React from 'react';
 import './style.css';
+import {useState} from 'react';
 
 function Header(props) {
   console.log('props', props, props.title);
@@ -31,7 +32,7 @@ function Nav(props) {
           href={'/read/' + t.id}
           onClick={(event) => {
             event.preventDefault();
-            props.onChangeMode(event.target.id);
+            props.onChangeMode(Number(event.target.id));
           }}
         >
           {t.title}
@@ -55,28 +56,132 @@ function Article(props) {
   );
 }
 
+function Create(props) {
+  return <article>
+    <h2>Create</h2>
+    <form onSubmit={event=>{
+      event.preventDefault();
+      const title = event.target.title.value;
+      const body = event.target.body.value;
+      props.onCreate(title, body);
+    }}>
+      <p><input type="text" name="title" placeholder="title"/></p>
+      <p><textarea name="body" placeholder="body"></textarea></p>
+      <p><input type="submit" value="create"></input></p>
+    </form>
+  </article>
+}
+
+function Update(props){
+  const [title, setTitle] = useState(props.title);
+  const [body, setBody] = useState(props.body);
+  return <article>
+  <h2>Update</h2>
+  <form onSubmit={event=>{
+    event.preventDefault();
+    const title = event.target.title.value;
+    const body = event.target.body.value;
+    props.onUpdate(title, body);
+  }}>
+    <p><input type="text" name="title" placeholder="title" value={title} onChange={event=>{
+      setTitle(event.target.value);
+    }}/></p>
+    <p><textarea name="body" placeholder="body" value={body} onChange={event=>{
+      setBody(event.target.value);
+    }}/></p>
+    <p><input type="submit" value="update"></input></p>
+  </form>
+</article>
+}
 export default function App() {
-  const topics = [
+  const [mode, setMode] = useState('WELCOME');
+  const [id, setId] = useState(null);
+  const [nextId, setNextId] = useState(4);
+  const [topics, setTopics] = useState([
     { id: 1, title: 'html', body: 'html is...' },
     { id: 2, title: 'css', body: 'css is...' },
     { id: 3, title: 'javascript', body: 'javascript is is...' },
-  ];
+  ]
+  );
+
+  let content = null;
+  let contextControl = null;
+  if(mode === 'WELCOME'){
+    content = <Article title="Welcome" body="WEB"></Article>
+  } else if(mode === 'READ'){
+    let title, body = null;
+    for(let i=0; i<topics.length; i++){
+      console.log(topics[i].id, id);
+      if(topics[i].id === id){
+        title = topics[i].title;
+        body = topics[i].body;
+      }
+    }
+
+    content = <Article title={title} body={body}></Article>
+    contextControl = <li><a href={'/update/'+id} onClick={event=>{
+      event.preventDefault();
+      setMode('UPDATE');
+    }}>Update</a></li>
+
+    } else if(mode === 'CREATE'){
+      content = <Create onCreate={(_title, _body)=>{
+        const newTopic = {id:nextId, title:_title, body:_body}
+        const newTopics = [...topics]
+        newTopics.push(newTopic);
+        setTopics(newTopics);
+        setMode('READ');
+        setId(nextId);
+        setNextId(nextId+1);
+      }}></Create>
+  }
+
+  else if(mode === 'UPDATE') {
+    let title, body = null;
+    for(let i=0; i<topics.length; i++){
+      console.log(topics[i].id, id);
+      if(topics[i].id === id){
+        title = topics[i].title;
+        body = topics[i].body;
+      }
+    }
+    content = <Update title={title} body= {body} onUpdate={(title, body)=> {
+      const newTopics = [...topics]
+      const updatedTopic = {id:id, title:title, body:body}
+      for(let i=0; i<newTopics.length; i++){
+        if(newTopics[i].id === id){
+          newTopics[i] = updatedTopic;
+          break;
+        }
+      }
+      setTopics(newTopics);
+      setMode('READ');
+    }}></Update>
+  }
+
   return (
     <div>
       <Header
-        title="Prop in React"
+        title="Web"
         onChangeMode={() => {
-          alert('header');
+          setMode ('WELCOME');
         }}
       ></Header>
       <Nav
         topics={topics}
         onChangeMode={(id) => {
-          alert(id);
+          setMode ('READ');
+          setId(id);
         }}
       ></Nav>
-      <Article title="Welcome" body="Hello, welcome"></Article>
-      <Article title="Yoon RO" body="Hello, React"></Article>
+      {content}
+      <ul>
+        <li><a href="/create" onClick={event=>{
+         event.preventDefault();
+          setMode ('CREATE')
+       }}>Create</a></li>
+       {contextControl}
+      </ul>
     </div>
   );
 }
