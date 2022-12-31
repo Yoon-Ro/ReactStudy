@@ -1,16 +1,26 @@
 import './App.css';
 import { useState } from 'react';
 
+function Modal(){
+  return (
+    <div className="modal">
+    <h4>Title</h4>
+    <p>Date</p>
+    <p>Information</p>
+    </div>
+  )
+}
+
 function App() {
 
-  let post = 'Content';
   let [title, setTitle] = useState(['Vancouver', 'Ottawa', 'Toronto']);
   let [like, setLike] = useState(0);
-  let arr = [1,2,3];
+
 
 
 
   return (
+    <div className="page-background">
     <div className="App">
       <nav className="black-nav">
         <h4>Yoon Ro's Blog</h4>
@@ -42,6 +52,9 @@ function App() {
         <p>Published in 17 Feb</p>
       </div>
 
+      <Modal></Modal>
+
+    </div>
     </div>
   );
 }

@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  max-width: 420px;
+  background-color: white;
+  position: relative;
+  margin: auto;
+
 }
 
 .App-logo {
@@ -53,4 +58,18 @@ div {
   padding-left: 20px;
   text-align: left;
   border-bottom: 1px solid grey;
+}
+
+
+
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background: rgb(219, 126, 126);
+  text-align: left;
+}
+
+.page-background {
+  background-color: whitesmoke;
+  max-height: fit-content;
 }
