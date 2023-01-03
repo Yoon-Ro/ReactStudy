@@ -77,7 +77,7 @@ body,
 button,
 input,
 textarea {
-  font-family: var(--body-font);
+  font-family:'poppins';
   font-size: var(--normal-font-size);
 }
 
@@ -168,16 +168,30 @@ img {
   align-items: center;
 }
 
+
+
 /*BREAKPOINTS*/
 
 @media screen and (max-width: 992px) {
+  .container {
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
 }
 
 @media screen and (max-width: 768px) {
+  .section{
+    padding: 2rem 0 4rem;
+}
+
 }
 
 @media screen and (max-width: 576px) {
 }
 
 @media screen and (max-width: 350px) {
+  .container {
+    margin-left: var(--mb-1);
+    margin-right: var(--mb-1);
+  }
 }
