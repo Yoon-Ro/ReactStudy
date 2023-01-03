@@ -1,8 +1,10 @@
-import React from 'react'
+import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
 import CV from "../../assets/John-Cv.pdf";
 import Info from "./Info.jsx";
+
+
 
 const About = () => {
   return (
@@ -15,10 +17,13 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Frontend developer, I create web pages with UI/UX user interface, I have years of experience and many clients are happy with the projects carried out.
+            Frontend developer, I create web pages with UI/UX user interface, I
+            have years of experience and many clients are happy with the
+            projects carried out.
           </p>
 
-          <a download="" href={CV} className="button button--flex">Download CV
+          <a download="" href={CV} className="button button--flex">
+            Download CV
             <svg
               class="button__icon"
               xmlns="http://www.w3.org/2000/svg"
@@ -43,11 +48,12 @@ const About = () => {
                 d="M11.25 17.7502H7.25C6.84 17.7502 6.5 17.4102 6.5 17.0002C6.5 16.5902 6.84 16.2502 7.25 16.2502H11.25C11.66 16.2502 12 16.5902 12 17.0002C12 17.4102 11.66 17.7502 11.25 17.7502Z"
                 fill="#FFFFFF"
               ></path>
-            </svg></a>
+            </svg>
+          </a>
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default About
+export default About;
