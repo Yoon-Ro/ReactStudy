@@ -1,46 +1,77 @@
-import React from 'react'
+import React from "react";
 
-const Frontend = () => {
+const Backend = () => {
   return (
-<div className="skills_">
-    <h3 className="skills__title">Backend Developer</h3>
-    <div className="skills__box">
+    <div className="skills__content">
+      <h3 className="skills__title">Test</h3>
 
-        <div className="skills__data">
+      <div className="skills__box">
+        <div className="skills__group">
+
+          <div className="skills__data">
             <i className="bx bx-badge-check"></i>
-            <>
-                <h3 className="skills__name">Text</h3>
-                <span className="skills__level">text</span>
-            </>
-        </div>
 
-        <div className="skills__data">
+            <>
+            <h3 className="skills__name">Skill #1</h3>
+            <span className="skills__level">EXP</span>
+            </>
+
+          </div>
+          
+          <div className="skills__data">
             <i className="bx bx-badge-check"></i>
-            <>
-                <h3 className="skills__name">Text</h3>
-                <span className="skills__level">Text</span>
-            </>
-        </div>
 
-        <div className="skills__data">
+            <>
+            <h3 className="skills__name">Skill #1</h3>
+            <span className="skills__level">EXP</span>
+            </>
+
+          </div>
+
+          <div className="skills__data">
             <i className="bx bx-badge-check"></i>
-            <>
-                <h3 className="skills__name">Text</h3>
-                <span className="skills__level">Text</span>
-            </>
-        </div>
 
-        <div className="skills__data">
+            <>
+            <h3 className="skills__name">Skill #1</h3>
+            <span className="skills__level">EXP</span>
+            </>
+
+          </div>
+
+          <div className="skills__data">
             <i className="bx bx-badge-check"></i>
-            <>
-                <h3 className="skills__name">Text</h3>
-                <span className="skills__level">Text</span>
-            </>
-        </div>
 
+            <>
+            <h3 className="skills__name">Skill #1</h3>
+            <span className="skills__level">EXP</span>
+            </>
+
+          </div>
+
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <>
+            <h3 className="skills__name">Skill #1</h3>
+            <span className="skills__level">EXP</span>
+            </>
+
+          </div>
+
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <>
+            <h3 className="skills__name">Skill #1</h3>
+            <span className="skills__level">EXP</span>
+            </>
+
+          </div>
+          
+        </div>
+      </div>
     </div>
-</div>
-  )
-}
+  );
+};
 
-export default Frontend
+export default Backend;
