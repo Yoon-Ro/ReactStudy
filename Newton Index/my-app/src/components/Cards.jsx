@@ -8,10 +8,10 @@ const Cards = () => {
   return (
     <div className='max-w-[1240px] mx-auto px-16 bg-black/0 mt-16 py-8 rounded-xl'>
 
-        <div className='] mx-auto grid md:grid-cols-2 gap-20 my-4'>
+        <div className='] mx-auto grid md:grid-cols-2 gap-16 my-4'>
             <div>
-            <h1 className='text-5xl font-bold'>Take full control of</h1>
-        <h1 className='text-5xl font-bold'>design & development</h1>
+            <h1 className='text-5xl font-bold'>Compare & Track</h1>
+        <h1 className='text-5xl font-bold'>your iPhone prices</h1>
             </div>
             <div>
             <p className="md:text-1xl text-sm uppercase font-bold text-black/60 mt-8">
@@ -27,7 +27,7 @@ const Cards = () => {
 
         </div>
 
-        <div className='flex justify-start items-center gap-8 mx-auto mt-16'>
+        <div className='flex justify-start items-center gap-4 mx-auto mt-16'>
         <a className="relative w-[33%] h-[300px] group rounded-2xl" href="##">
             {/* 이미지 */}
           <img
@@ -88,8 +88,8 @@ const Cards = () => {
             className="absolute inset-0 object-cover w-[100%] h-[300px] rounded-2xl group-hover:opacity-60"
             src={img3}
           alt="/"/>
-          <div className="relative p-5">
-            <div className="mt-50">
+          <div className="relative p-4">
+            <div className="">
               <div
                 class="transition-all transform 
                                 translate-y-1 opacity-0
@@ -105,6 +105,11 @@ const Cards = () => {
                     <li className='my-2 text-[#ffd5e8] font-medium text-xl'>Lorem ipsum dolor sit amet.</li>
                     <li className='my-2 text-[#ffd5e8] font-medium text-xl'>Lorem ipsum dolor sit amet.</li>
                    </ul>
+                   <button className="mt-8 bg-[#ff3b3b] text-Black flex w-[160px] items-center py-2 rounded-md">
+              <span className="mx-auto font-medium text-white text-center">
+                READ MORE
+              </span>
+            </button>
                 </div>
                 
               </div>
