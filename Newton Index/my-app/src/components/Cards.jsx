@@ -8,7 +8,7 @@ const Cards = () => {
   return (
     <div className='max-w-[1240px] mx-auto px-16 bg-black/0 mt-16 py-8 rounded-xl'>
 
-        <div className='] mx-auto grid md:grid-cols-2 gap-16 my-4'>
+        <div className=' mx-auto grid md:grid-cols-2 gap-16 my-4'>
             <div>
             <h1 className='text-5xl font-bold'>Compare & Track</h1>
         <h1 className='text-5xl font-bold'>your iPhone prices</h1>

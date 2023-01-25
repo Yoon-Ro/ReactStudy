@@ -4,9 +4,9 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 
 import Cards2 from './components/Cards2';
+import Cards3 from './components/Cards3';
 import Iphone from './components/Iphone';
 import CTA from './components/CTA';
-import CTA2 from './components/CTA2'
 import Footer from './components/Footer';
 
 
@@ -16,8 +16,8 @@ function App() {
       <Navbar />
       <Hero />
       <Cards2/>
+      <Cards3/>
 
-      <CTA2/>
       <CTA/>
       <Iphone />
       <Footer/>

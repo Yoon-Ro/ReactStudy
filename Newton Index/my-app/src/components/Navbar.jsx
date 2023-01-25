@@ -9,14 +9,14 @@ const Navbar = () => {
         <img className='w-40' src={logo} alt="/"/>
         <div className='flex items-center'>
         <ul className='hidden lg:flex font-medium'>
-            <li className='p-4'>COMPANY</li>
-            <li className='p-4'>RESOURCE</li>
-            <li className='p-4'>ABOUT</li>
-            <li className='p-4'>CONTACT</li>
+            <li className='p-4'>FEATURE</li>
+            <li className='p-4'>PROCESS</li>
+            <li className='p-4'>ROADMAP</li>
+            <li className='p-4'>FAQ</li>
         </ul>
-        <button className=" bg-[#ff3b3b] ml-4 text-Black flex w-[160px] items-center py-2 rounded-md">
+        <button className=" bg-[#93123f] ml-4 text-Black flex w-[160px] items-center py-2 rounded-md">
               <span className="mx-auto font-medium text-white text-center">
-                BROWSE
+                TRY IT
               </span>
             </button>
         </div>
