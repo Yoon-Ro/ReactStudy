@@ -1,5 +1,9 @@
 import React from 'react'
 import Typed from 'react-typed';
+import Indoor from './Indoor.jsx';
+import Outdoor from './Outdoor.jsx';
+import Profile from './Profile.jsx';
+import Strip from './Strip.jsx';
 
 
 const Hero = () => {
@@ -31,7 +35,12 @@ const Hero = () => {
 {/* BURGER IMAGE */}
             <img className="rounded-xl w-full max-h-[600px] object-cover"src="https://images.unsplash.com/photo-1635201848404-7a858102f3ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt='hamburger'/>
         </div>
+<Indoor/>
+<Outdoor/>
+<Profile/>
+<Strip/>
     </div>
+
   )
 }
 

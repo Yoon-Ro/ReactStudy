@@ -41,29 +41,5 @@ export const categories = [
       image:
         'https://www.greenimagetech.com/wp-content/uploads/2019/12/GG-18R2GD-HD-PNG.png',
     },
-    {
-      id: 8,
-      name: 'Luminaire',
-      image:
-        'https://www.greenimagetech.com/wp-content/uploads/2019/12/GD-509D-HD.png',
-    },
-    {
-      id: 9,
-      name: 'Panel Light',
-      image:
-        'https://www.greenimagetech.com/wp-content/uploads/2020/01/GN-CL-350-HD.png',
-    },
-    {
-      id: 10,
-      name: 'Inground Light',
-      image:
-        'https://www.greenimagetech.com/wp-content/uploads/2019/12/GG-18R2GD-HD-PNG.png',
-    },
-    {
-      id: 11,
-      name: 'Luminaire',
-      image:
-        'https://www.greenimagetech.com/wp-content/uploads/2019/12/GD-509D-HD.png',
-    },
   ];
   

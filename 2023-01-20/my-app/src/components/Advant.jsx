@@ -12,7 +12,7 @@ const Advant = () => {
                 </div>
                 <button className='bg-[#000000] w-[200px] rounded-xl font-medium my-6 mx-auto md:mx-0 py-3 text-white'>View More</button>
             </div>
-            <div className='col-span-2 flex justify-start items-center gap-4 mx-auto'>
+            <div className='col-span-2 flex flex-row justify-start items-center gap-4 mx-auto'>
             <img className='w-[300px] h-[300px] object-cover rounded-xl' src="https://images.unsplash.com/photo-1540932239986-30128078f3c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="/"/>
             <img className='w-[300px] h-[300px] object-cover rounded-xl' src="https://images.unsplash.com/photo-1540932239986-30128078f3c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="/"/>
 
