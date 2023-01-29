@@ -1,0 +1,1064 @@
+[
+  {
+    "product_id": 195,
+    "model_name": "iPhone XS Max",
+    "capacity": " 256 GB",
+    "color": "SILVER",
+    "price_avg": 400.0,
+    "price_high": 400.0,
+    "price_low": 400.0
+  },
+  {
+    "product_id": 196,
+    "model_name": "iPhone XS Max",
+    "capacity": "512 GB",
+    "color": "SILVER",
+    "price_avg": 420.0,
+    "price_high": 420.0,
+    "price_low": 420.0
+  },
+  {
+    "product_id": 198,
+    "model_name": "iPhone XS Max",
+    "capacity": " 256 GB",
+    "color": "SPACE GRAY",
+    "price_avg": 400.0,
+    "price_high": 400.0,
+    "price_low": 400.0
+  },
+  {
+    "product_id": 200,
+    "model_name": "iPhone XS Max",
+    "capacity": "64 GB",
+    "color": "GOLD",
+    "price_avg": 270.0,
+    "price_high": 270.0,
+    "price_low": 270.0
+  },
+  {
+    "product_id": 201,
+    "model_name": "iPhone XS Max",
+    "capacity": " 256 GB",
+    "color": "GOLD",
+    "price_avg": 369.6666666666667,
+    "price_high": 399.0,
+    "price_low": 350.0
+  },
+  {
+    "product_id": 212,
+    "model_name": "iPhone 11",
+    "capacity": "64 GB",
+    "color": "PURPLE",
+    "price_avg": 805.0,
+    "price_high": 1200.0,
+    "price_low": 410.0
+  },
+  {
+    "product_id": 213,
+    "model_name": "iPhone 11",
+    "capacity": " 128 GB",
+    "color": "PURPLE",
+    "price_avg": 450.0,
+    "price_high": 450.0,
+    "price_low": 450.0
+  },
+  {
+    "product_id": 215,
+    "model_name": "iPhone 11",
+    "capacity": "64 GB",
+    "color": "GREEN",
+    "price_avg": 440.0,
+    "price_high": 470.0,
+    "price_low": 400.0
+  },
+  {
+    "product_id": 216,
+    "model_name": "iPhone 11",
+    "capacity": " 128 GB",
+    "color": "GREEN",
+    "price_avg": 500.0,
+    "price_high": 500.0,
+    "price_low": 500.0
+  },
+  {
+    "product_id": 217,
+    "model_name": "iPhone 11",
+    "capacity": "256 GB",
+    "color": "GREEN",
+    "price_avg": 470.0,
+    "price_high": 520.0,
+    "price_low": 400.0
+  },
+  {
+    "product_id": 221,
+    "model_name": "iPhone 11",
+    "capacity": "64 GB",
+    "color": "BLACK",
+    "price_avg": 405.93333333333334,
+    "price_high": 600.0,
+    "price_low": 325.0
+  },
+  {
+    "product_id": 222,
+    "model_name": "iPhone 11",
+    "capacity": " 128 GB",
+    "color": "BLACK",
+    "price_avg": 405.44444444444446,
+    "price_high": 700.0,
+    "price_low": 150.0
+  },
+  {
+    "product_id": 223,
+    "model_name": "iPhone 11",
+    "capacity": "256 GB",
+    "color": "BLACK",
+    "price_avg": 492.5,
+    "price_high": 700.0,
+    "price_low": 380.0
+  },
+  {
+    "product_id": 224,
+    "model_name": "iPhone 11",
+    "capacity": "64 GB",
+    "color": "WHITE",
+    "price_avg": 400.0,
+    "price_high": 650.0,
+    "price_low": 175.0
+  },
+  {
+    "product_id": 225,
+    "model_name": "iPhone 11",
+    "capacity": " 128 GB",
+    "color": "WHITE",
+    "price_avg": 400.0,
+    "price_high": 400.0,
+    "price_low": 400.0
+  },
+  {
+    "product_id": 231,
+    "model_name": "iPhone 11 Pro Max",
+    "capacity": " 256 GB",
+    "color": "SILVER",
+    "price_avg": 550.0,
+    "price_high": 550.0,
+    "price_low": 550.0
+  },
+  {
+    "product_id": 236,
+    "model_name": "iPhone 11 Pro Max",
+    "capacity": "64 GB",
+    "color": "GOLD",
+    "price_avg": 500.0,
+    "price_high": 500.0,
+    "price_low": 500.0
+  },
+  {
+    "product_id": 237,
+    "model_name": "iPhone 11 Pro Max",
+    "capacity": " 256 GB",
+    "color": "GOLD",
+    "price_avg": 550.0,
+    "price_high": 550.0,
+    "price_low": 550.0
+  },
+  {
+    "product_id": 239,
+    "model_name": "iPhone 11 Pro Max",
+    "capacity": "64 GB",
+    "color": "MIDNIGHT GREEN",
+    "price_avg": 450.0,
+    "price_high": 450.0,
+    "price_low": 450.0
+  },
+  {
+    "product_id": 240,
+    "model_name": "iPhone 11 Pro Max",
+    "capacity": " 256 GB",
+    "color": "MIDNIGHT GREEN",
+    "price_avg": 560.0,
+    "price_high": 600.0,
+    "price_low": 520.0
+  },
+  {
+    "product_id": 243,
+    "model_name": "iPhone 11 Pro",
+    "capacity": " 256 GB",
+    "color": "SILVER",
+    "price_avg": 550.0,
+    "price_high": 550.0,
+    "price_low": 550.0
+  },
+  {
+    "product_id": 245,
+    "model_name": "iPhone 11 Pro",
+    "capacity": "64 GB",
+    "color": "SPACE GRAY",
+    "price_avg": 480.0,
+    "price_high": 480.0,
+    "price_low": 480.0
+  },
+  {
+    "product_id": 248,
+    "model_name": "iPhone 11 Pro",
+    "capacity": "64 GB",
+    "color": "GOLD",
+    "price_avg": 487.5,
+    "price_high": 500.0,
+    "price_low": 475.0
+  },
+  {
+    "product_id": 249,
+    "model_name": "iPhone 11 Pro",
+    "capacity": " 256 GB",
+    "color": "GOLD",
+    "price_avg": 550.0,
+    "price_high": 550.0,
+    "price_low": 550.0
+  },
+  {
+    "product_id": 251,
+    "model_name": "iPhone 11 Pro",
+    "capacity": "64 GB",
+    "color": "MIDNIGHT GREEN",
+    "price_avg": 460.0,
+    "price_high": 470.0,
+    "price_low": 450.0
+  },
+  {
+    "product_id": 252,
+    "model_name": "iPhone 11 Pro",
+    "capacity": " 256 GB",
+    "color": "MIDNIGHT GREEN",
+    "price_avg": 517.5,
+    "price_high": 600.0,
+    "price_low": 400.0
+  },
+  {
+    "product_id": 263,
+    "model_name": "iPhone 12 mini",
+    "capacity": "64 GB",
+    "color": "BLACK",
+    "price_avg": 500.0,
+    "price_high": 500.0,
+    "price_low": 500.0
+  },
+  {
+    "product_id": 265,
+    "model_name": "iPhone 12 mini",
+    "capacity": "256 GB",
+    "color": "BLACK",
+    "price_avg": 670.0,
+    "price_high": 670.0,
+    "price_low": 670.0
+  },
+  {
+    "product_id": 272,
+    "model_name": "iPhone 12 mini",
+    "capacity": "64 GB",
+    "color": "GREEN",
+    "price_avg": 530.0,
+    "price_high": 530.0,
+    "price_low": 530.0
+  },
+  {
+    "product_id": 275,
+    "model_name": "iPhone 12 mini",
+    "capacity": "64 GB",
+    "color": "BLUE",
+    "price_avg": 450.0,
+    "price_high": 450.0,
+    "price_low": 450.0
+  },
+  {
+    "product_id": 276,
+    "model_name": "iPhone 12 mini",
+    "capacity": " 128 GB",
+    "color": "BLUE",
+    "price_avg": 550.0,
+    "price_high": 550.0,
+    "price_low": 550.0
+  },
+  {
+    "product_id": 281,
+    "model_name": "iPhone 12",
+    "capacity": "64 GB",
+    "color": "BLACK",
+    "price_avg": 582.1428571428571,
+    "price_high": 800.0,
+    "price_low": 450.0
+  },
+  {
+    "product_id": 282,
+    "model_name": "iPhone 12",
+    "capacity": " 128 GB",
+    "color": "BLACK",
+    "price_avg": 586.25,
+    "price_high": 750.0,
+    "price_low": 475.0
+  },
+  {
+    "product_id": 283,
+    "model_name": "iPhone 12",
+    "capacity": "256 GB",
+    "color": "BLACK",
+    "price_avg": 573.3333333333334,
+    "price_high": 670.0,
+    "price_low": 500.0
+  },
+  {
+    "product_id": 284,
+    "model_name": "iPhone 12",
+    "capacity": "64 GB",
+    "color": "WHITE",
+    "price_avg": 600.0,
+    "price_high": 600.0,
+    "price_low": 600.0
+  },
+  {
+    "product_id": 285,
+    "model_name": "iPhone 12",
+    "capacity": " 128 GB",
+    "color": "WHITE",
+    "price_avg": 626.0,
+    "price_high": 850.0,
+    "price_low": 495.0
+  },
+  {
+    "product_id": 286,
+    "model_name": "iPhone 12",
+    "capacity": "256 GB",
+    "color": "WHITE",
+    "price_avg": 530.0,
+    "price_high": 530.0,
+    "price_low": 530.0
+  },
+  {
+    "product_id": 290,
+    "model_name": "iPhone 12",
+    "capacity": "64 GB",
+    "color": "GREEN",
+    "price_avg": 530.0,
+    "price_high": 530.0,
+    "price_low": 530.0
+  },
+  {
+    "product_id": 293,
+    "model_name": "iPhone 12",
+    "capacity": "64 GB",
+    "color": "BLUE",
+    "price_avg": 523.3333333333334,
+    "price_high": 550.0,
+    "price_low": 500.0
+  },
+  {
+    "product_id": 294,
+    "model_name": "iPhone 12",
+    "capacity": " 128 GB",
+    "color": "BLUE",
+    "price_avg": 666.25,
+    "price_high": 850.0,
+    "price_low": 500.0
+  },
+  {
+    "product_id": 295,
+    "model_name": "iPhone 12",
+    "capacity": "256 GB",
+    "color": "BLUE",
+    "price_avg": 782.2727272727273,
+    "price_high": 1000.0,
+    "price_low": 650.0
+  },
+  {
+    "product_id": 299,
+    "model_name": "iPhone 12 Pro",
+    "capacity": "128 GB",
+    "color": "SILVER",
+    "price_avg": 705.0,
+    "price_high": 850.0,
+    "price_low": 560.0
+  },
+  {
+    "product_id": 302,
+    "model_name": "iPhone 12 Pro",
+    "capacity": "128 GB",
+    "color": "GRAPHITE",
+    "price_avg": 728.3333333333334,
+    "price_high": 850.0,
+    "price_low": 620.0
+  },
+  {
+    "product_id": 305,
+    "model_name": "iPhone 12 Pro",
+    "capacity": "128 GB",
+    "color": "GOLD",
+    "price_avg": 718.0,
+    "price_high": 850.0,
+    "price_low": 500.0
+  },
+  {
+    "product_id": 306,
+    "model_name": "iPhone 12 Pro",
+    "capacity": " 256 GB",
+    "color": "GOLD",
+    "price_avg": 780.0,
+    "price_high": 950.0,
+    "price_low": 600.0
+  },
+  {
+    "product_id": 307,
+    "model_name": "iPhone 12 Pro",
+    "capacity": "512 GB",
+    "color": "GOLD",
+    "price_avg": 887.5,
+    "price_high": 995.0,
+    "price_low": 780.0
+  },
+  {
+    "product_id": 308,
+    "model_name": "iPhone 12 Pro",
+    "capacity": "128 GB",
+    "color": "PACIFIC BLUE",
+    "price_avg": 800.0,
+    "price_high": 800.0,
+    "price_low": 800.0
+  },
+  {
+    "product_id": 309,
+    "model_name": "iPhone 12 Pro",
+    "capacity": " 256 GB",
+    "color": "PACIFIC BLUE",
+    "price_avg": 814.1666666666666,
+    "price_high": 1000.0,
+    "price_low": 655.0
+  },
+  {
+    "product_id": 314,
+    "model_name": "iPhone 12 Pro Max",
+    "capacity": "128 GB",
+    "color": "GRAPHITE",
+    "price_avg": 850.0,
+    "price_high": 850.0,
+    "price_low": 850.0
+  },
+  {
+    "product_id": 317,
+    "model_name": "iPhone 12 Pro Max",
+    "capacity": "128 GB",
+    "color": "GOLD",
+    "price_avg": 800.0,
+    "price_high": 850.0,
+    "price_low": 750.0
+  },
+  {
+    "product_id": 318,
+    "model_name": "iPhone 12 Pro Max",
+    "capacity": " 256 GB",
+    "color": "GOLD",
+    "price_avg": 805.0,
+    "price_high": 950.0,
+    "price_low": 700.0
+  },
+  {
+    "product_id": 319,
+    "model_name": "iPhone 12 Pro Max",
+    "capacity": "512 GB",
+    "color": "GOLD",
+    "price_avg": 887.5,
+    "price_high": 995.0,
+    "price_low": 780.0
+  },
+  {
+    "product_id": 320,
+    "model_name": "iPhone 12 Pro Max",
+    "capacity": "128 GB",
+    "color": "PACIFIC BLUE",
+    "price_avg": 800.0,
+    "price_high": 800.0,
+    "price_low": 800.0
+  },
+  {
+    "product_id": 321,
+    "model_name": "iPhone 12 Pro Max",
+    "capacity": " 256 GB",
+    "color": "PACIFIC BLUE",
+    "price_avg": 797.0,
+    "price_high": 1000.0,
+    "price_low": 655.0
+  },
+  {
+    "product_id": 329,
+    "model_name": "iPhone 13 mini",
+    "capacity": "128 GB",
+    "color": "MIDNIGHT",
+    "price_avg": 699.0,
+    "price_high": 699.0,
+    "price_low": 699.0
+  },
+  {
+    "product_id": 335,
+    "model_name": "iPhone 13 mini",
+    "capacity": "128 GB",
+    "color": "PINK",
+    "price_avg": 750.0,
+    "price_high": 750.0,
+    "price_low": 750.0
+  },
+  {
+    "product_id": 344,
+    "model_name": "iPhone 13",
+    "capacity": "128 GB",
+    "color": "STARLIGHT",
+    "price_avg": 840.0,
+    "price_high": 840.0,
+    "price_low": 840.0
+  },
+  {
+    "product_id": 347,
+    "model_name": "iPhone 13",
+    "capacity": "128 GB",
+    "color": "MIDNIGHT",
+    "price_avg": 814.3125,
+    "price_high": 1100.0,
+    "price_low": 680.0
+  },
+  {
+    "product_id": 348,
+    "model_name": "iPhone 13",
+    "capacity": "256 GB",
+    "color": "MIDNIGHT",
+    "price_avg": 900.0,
+    "price_high": 1050.0,
+    "price_low": 750.0
+  },
+  {
+    "product_id": 350,
+    "model_name": "iPhone 13",
+    "capacity": "128 GB",
+    "color": "BLUE",
+    "price_avg": 940.7142857142857,
+    "price_high": 1220.0,
+    "price_low": 750.0
+  },
+  {
+    "product_id": 351,
+    "model_name": "iPhone 13",
+    "capacity": "256 GB",
+    "color": "BLUE",
+    "price_avg": 1300.0,
+    "price_high": 1350.0,
+    "price_low": 1250.0
+  },
+  {
+    "product_id": 353,
+    "model_name": "iPhone 13",
+    "capacity": "128 GB",
+    "color": "PINK",
+    "price_avg": 767.5,
+    "price_high": 850.0,
+    "price_low": 720.0
+  },
+  {
+    "product_id": 354,
+    "model_name": "iPhone 13",
+    "capacity": "256 GB",
+    "color": "PINK",
+    "price_avg": 942.0,
+    "price_high": 999.0,
+    "price_low": 885.0
+  },
+  {
+    "product_id": 356,
+    "model_name": "iPhone 13",
+    "capacity": "128 GB",
+    "color": "GREEN",
+    "price_avg": 750.0,
+    "price_high": 750.0,
+    "price_low": 750.0
+  },
+  {
+    "product_id": 358,
+    "model_name": "iPhone 13",
+    "capacity": "512 GB",
+    "color": "GREEN",
+    "price_avg": 1600.0,
+    "price_high": 1600.0,
+    "price_low": 1600.0
+  },
+  {
+    "product_id": 359,
+    "model_name": "iPhone 13 Pro",
+    "capacity": "128 GB",
+    "color": "GRAPHITE",
+    "price_avg": 1162.5,
+    "price_high": 1350.0,
+    "price_low": 1000.0
+  },
+  {
+    "product_id": 360,
+    "model_name": "iPhone 13 Pro",
+    "capacity": "256 GB",
+    "color": "GRAPHITE",
+    "price_avg": 849.0,
+    "price_high": 849.0,
+    "price_low": 849.0
+  },
+  {
+    "product_id": 363,
+    "model_name": "iPhone 13 Pro",
+    "capacity": "128 GB",
+    "color": "GOLD",
+    "price_avg": 1080.0,
+    "price_high": 1080.0,
+    "price_low": 1080.0
+  },
+  {
+    "product_id": 364,
+    "model_name": "iPhone 13 Pro",
+    "capacity": "256 GB",
+    "color": "GOLD",
+    "price_avg": 1233.3333333333333,
+    "price_high": 1600.0,
+    "price_low": 950.0
+  },
+  {
+    "product_id": 370,
+    "model_name": "iPhone 13 Pro",
+    "capacity": "1 TB",
+    "color": "SILVER",
+    "price_avg": 1775.0,
+    "price_high": 1775.0,
+    "price_low": 1775.0
+  },
+  {
+    "product_id": 371,
+    "model_name": "iPhone 13 Pro",
+    "capacity": "128 GB",
+    "color": "SIERRA BLUE",
+    "price_avg": 1205.0,
+    "price_high": 1220.0,
+    "price_low": 1190.0
+  },
+  {
+    "product_id": 372,
+    "model_name": "iPhone 13 Pro",
+    "capacity": "256 GB",
+    "color": "SIERRA BLUE",
+    "price_avg": 1350.0,
+    "price_high": 1350.0,
+    "price_low": 1350.0
+  },
+  {
+    "product_id": 377,
+    "model_name": "iPhone 13 Pro",
+    "capacity": "512 GB",
+    "color": "ALPINE GREEN",
+    "price_avg": 1600.0,
+    "price_high": 1600.0,
+    "price_low": 1600.0
+  },
+  {
+    "product_id": 379,
+    "model_name": "iPhone 13 Pro Max",
+    "capacity": "128 GB",
+    "color": "GRAPHITE",
+    "price_avg": 1150.0,
+    "price_high": 1150.0,
+    "price_low": 1150.0
+  },
+  {
+    "product_id": 384,
+    "model_name": "iPhone 13 Pro Max",
+    "capacity": "256 GB",
+    "color": "GOLD",
+    "price_avg": 1150.0,
+    "price_high": 1150.0,
+    "price_low": 1150.0
+  },
+  {
+    "product_id": 390,
+    "model_name": "iPhone 13 Pro Max",
+    "capacity": "1 TB",
+    "color": "SILVER",
+    "price_avg": 1775.0,
+    "price_high": 1775.0,
+    "price_low": 1775.0
+  },
+  {
+    "product_id": 391,
+    "model_name": "iPhone 13 Pro Max",
+    "capacity": "128 GB",
+    "color": "SIERRA BLUE",
+    "price_avg": 1205.0,
+    "price_high": 1220.0,
+    "price_low": 1190.0
+  },
+  {
+    "product_id": 392,
+    "model_name": "iPhone 13 Pro Max",
+    "capacity": "256 GB",
+    "color": "SIERRA BLUE",
+    "price_avg": 1350.0,
+    "price_high": 1350.0,
+    "price_low": 1350.0
+  },
+  {
+    "product_id": 408,
+    "model_name": "iPhone 14",
+    "capacity": "128 GB",
+    "color": "MIDNIGHT",
+    "price_avg": 973.75,
+    "price_high": 1000.0,
+    "price_low": 950.0
+  },
+  {
+    "product_id": 409,
+    "model_name": "iPhone 14",
+    "capacity": "256 GB",
+    "color": "MIDNIGHT",
+    "price_avg": 1700.0,
+    "price_high": 1700.0,
+    "price_low": 1700.0
+  },
+  {
+    "product_id": 410,
+    "model_name": "iPhone 14",
+    "capacity": "512 GB",
+    "color": "MIDNIGHT",
+    "price_avg": 1450.0,
+    "price_high": 1450.0,
+    "price_low": 1450.0
+  },
+  {
+    "product_id": 411,
+    "model_name": "iPhone 14",
+    "capacity": "128 GB",
+    "color": "BLUE",
+    "price_avg": 1200.0,
+    "price_high": 1200.0,
+    "price_low": 1200.0
+  },
+  {
+    "product_id": 414,
+    "model_name": "iPhone 14",
+    "capacity": "128 GB",
+    "color": "STARLIGHT",
+    "price_avg": 1100.0,
+    "price_high": 1100.0,
+    "price_low": 1100.0
+  },
+  {
+    "product_id": 417,
+    "model_name": "iPhone 14",
+    "capacity": "128 GB",
+    "color": "PURPLE",
+    "price_avg": 1513.3333333333333,
+    "price_high": 1600.0,
+    "price_low": 1350.0
+  },
+  {
+    "product_id": 418,
+    "model_name": "iPhone 14",
+    "capacity": "256 GB",
+    "color": "PURPLE",
+    "price_avg": 1762.5,
+    "price_high": 1900.0,
+    "price_low": 1650.0
+  },
+  {
+    "product_id": 419,
+    "model_name": "iPhone 14",
+    "capacity": "512 GB",
+    "color": "PURPLE",
+    "price_avg": 1800.0,
+    "price_high": 1800.0,
+    "price_low": 1800.0
+  },
+  {
+    "product_id": 423,
+    "model_name": "iPhone 14 Plus",
+    "capacity": "128 GB",
+    "color": "MIDNIGHT",
+    "price_avg": 1049.0,
+    "price_high": 1049.0,
+    "price_low": 1049.0
+  },
+  {
+    "product_id": 424,
+    "model_name": "iPhone 14 Plus",
+    "capacity": "256 GB",
+    "color": "MIDNIGHT",
+    "price_avg": 1700.0,
+    "price_high": 1700.0,
+    "price_low": 1700.0
+  },
+  {
+    "product_id": 426,
+    "model_name": "iPhone 14 Plus",
+    "capacity": "128 GB",
+    "color": "BLUE",
+    "price_avg": 1200.0,
+    "price_high": 1200.0,
+    "price_low": 1200.0
+  },
+  {
+    "product_id": 429,
+    "model_name": "iPhone 14 Plus",
+    "capacity": "128 GB",
+    "color": "STARLIGHT",
+    "price_avg": 1100.0,
+    "price_high": 1100.0,
+    "price_low": 1100.0
+  },
+  {
+    "product_id": 438,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "128 GB",
+    "color": "SILVER",
+    "price_avg": 1239.5,
+    "price_high": 1580.0,
+    "price_low": 899.0
+  },
+  {
+    "product_id": 439,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "256 GB",
+    "color": "SILVER",
+    "price_avg": 1800.0,
+    "price_high": 1800.0,
+    "price_low": 1800.0
+  },
+  {
+    "product_id": 440,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "512 GB",
+    "color": "SILVER",
+    "price_avg": 2100.0,
+    "price_high": 2100.0,
+    "price_low": 2100.0
+  },
+  {
+    "product_id": 441,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "1 TB",
+    "color": "SILVER",
+    "price_avg": 2150.0,
+    "price_high": 2800.0,
+    "price_low": 1500.0
+  },
+  {
+    "product_id": 442,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "128 GB",
+    "color": "GOLD",
+    "price_avg": 1500.0,
+    "price_high": 1500.0,
+    "price_low": 1500.0
+  },
+  {
+    "product_id": 443,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "256 GB",
+    "color": "GOLD",
+    "price_avg": 1783.3333333333333,
+    "price_high": 1950.0,
+    "price_low": 1600.0
+  },
+  {
+    "product_id": 444,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "512 GB",
+    "color": "GOLD",
+    "price_avg": 1700.0,
+    "price_high": 1700.0,
+    "price_low": 1700.0
+  },
+  {
+    "product_id": 445,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "1 TB",
+    "color": "GOLD",
+    "price_avg": 1850.0,
+    "price_high": 1850.0,
+    "price_low": 1850.0
+  },
+  {
+    "product_id": 447,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "256 GB",
+    "color": "SPACE BLACK",
+    "price_avg": 1825.0,
+    "price_high": 1950.0,
+    "price_low": 1700.0
+  },
+  {
+    "product_id": 449,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "1 TB",
+    "color": "SPACE BLACK",
+    "price_avg": 1999.0,
+    "price_high": 1999.0,
+    "price_low": 1999.0
+  },
+  {
+    "product_id": 450,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "128 GB",
+    "color": "DEEP PURPLE",
+    "price_avg": 1443.3333333333333,
+    "price_high": 1600.0,
+    "price_low": 1350.0
+  },
+  {
+    "product_id": 451,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "256 GB",
+    "color": "DEEP PURPLE",
+    "price_avg": 1750.0,
+    "price_high": 1900.0,
+    "price_low": 1500.0
+  },
+  {
+    "product_id": 453,
+    "model_name": "iPhone 14 Pro",
+    "capacity": "1 TB",
+    "color": "DEEP PURPLE",
+    "price_avg": 2150.0,
+    "price_high": 2200.0,
+    "price_low": 2100.0
+  },
+  {
+    "product_id": 454,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "128 GB",
+    "color": "SILVER",
+    "price_avg": 1580.0,
+    "price_high": 1580.0,
+    "price_low": 1580.0
+  },
+  {
+    "product_id": 455,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "256 GB",
+    "color": "SILVER",
+    "price_avg": 1800.0,
+    "price_high": 1800.0,
+    "price_low": 1800.0
+  },
+  {
+    "product_id": 456,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "512 GB",
+    "color": "SILVER",
+    "price_avg": 1983.3333333333333,
+    "price_high": 2100.0,
+    "price_low": 1750.0
+  },
+  {
+    "product_id": 457,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "1 TB",
+    "color": "SILVER",
+    "price_avg": 2150.0,
+    "price_high": 2800.0,
+    "price_low": 1500.0
+  },
+  {
+    "product_id": 458,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "128 GB",
+    "color": "GOLD",
+    "price_avg": 1500.0,
+    "price_high": 1500.0,
+    "price_low": 1500.0
+  },
+  {
+    "product_id": 459,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "256 GB",
+    "color": "GOLD",
+    "price_avg": 1825.0,
+    "price_high": 1950.0,
+    "price_low": 1600.0
+  },
+  {
+    "product_id": 460,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "512 GB",
+    "color": "GOLD",
+    "price_avg": 1700.0,
+    "price_high": 1700.0,
+    "price_low": 1700.0
+  },
+  {
+    "product_id": 461,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "1 TB",
+    "color": "GOLD",
+    "price_avg": 1975.0,
+    "price_high": 2100.0,
+    "price_low": 1850.0
+  },
+  {
+    "product_id": 463,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "256 GB",
+    "color": "SPACE BLACK",
+    "price_avg": 1866.6666666666667,
+    "price_high": 1950.0,
+    "price_low": 1700.0
+  },
+  {
+    "product_id": 464,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "512 GB",
+    "color": "SPACE BLACK",
+    "price_avg": 1800.0,
+    "price_high": 1800.0,
+    "price_low": 1800.0
+  },
+  {
+    "product_id": 465,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "1 TB",
+    "color": "SPACE BLACK",
+    "price_avg": 1999.0,
+    "price_high": 1999.0,
+    "price_low": 1999.0
+  },
+  {
+    "product_id": 466,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "128 GB",
+    "color": "DEEP PURPLE",
+    "price_avg": 1600.0,
+    "price_high": 1700.0,
+    "price_low": 1500.0
+  },
+  {
+    "product_id": 467,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "256 GB",
+    "color": "DEEP PURPLE",
+    "price_avg": 1875.0,
+    "price_high": 1900.0,
+    "price_low": 1850.0
+  },
+  {
+    "product_id": 468,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "512 GB",
+    "color": "DEEP PURPLE",
+    "price_avg": 2300.0,
+    "price_high": 2300.0,
+    "price_low": 2300.0
+  },
+  {
+    "product_id": 469,
+    "model_name": "iPhone 14 Pro Max",
+    "capacity": "1 TB",
+    "color": "DEEP PURPLE",
+    "price_avg": 2100.0,
+    "price_high": 2100.0,
+    "price_low": 2100.0
+  }
+]
