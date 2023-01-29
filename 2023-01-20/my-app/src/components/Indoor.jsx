@@ -23,8 +23,8 @@ export const Indoor = () => {
         <div className='grid grid-cols-2 sm:grid-cols-4 md:gap-6 gap-4 '>
         {categories.map((item, index) =>
             <div key={index} className='bg-white/10 hover:bg-white/20 hover:scale-105 duration-300 rounded-xl px-4 py-8 flex justify-between items-center'>
-                <h2 className='font-bold text-white sm:text-xl '>{item.name}</h2>
-                <img className='w-16' src={item.image} alt={item.name}/>
+                <h2 className=' text-white md:text-xl text-sm'>{item.name}</h2>
+                <img className='w-16 ' src={item.image} alt={item.name}/>
             </div>
         )}
         </div>

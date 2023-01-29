@@ -4,7 +4,7 @@ import React from 'react';
 const CTA = () => {
   return (
     <div className='w-full py-16 text-white'>
-    <div className='max-w-[1240px] mx-auto grid lg:grid-cols-3 px-8'>
+    <div className='max-w-[1240px] mx-auto grid lg:grid-cols-3'>
         <div className='lg:col-span-2'>
             <h1 className='md:text-4xl sm:text-4xl text-xl font-bold py-2'>Lorem, ipsum dolor sit amet</h1>
             <h1 className='md:text-4xl sm:text-4xl text-xl font-bold py-2'>Elit. Provident, voluptatibus!</h1>
