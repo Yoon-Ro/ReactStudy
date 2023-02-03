@@ -85,7 +85,7 @@ variants={{
     </AnchorLink>
 
     <AnchorLink
-    className="rounded-r-sm bg-gradient-rainblue py-0.5 pr-0.5"
+    className="rounded-sm bg-gradient-rainblue py-1 px-1 mx-4"
     onClcik={() =>  setSelectedPage("contact")}
     href="#contact"
     >

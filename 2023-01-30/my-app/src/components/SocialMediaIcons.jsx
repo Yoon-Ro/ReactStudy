@@ -1,5 +1,5 @@
 import React from 'react'
-import {BsLinkedin} from 'react-icons/bs';
+import {BsLinkedin, BsTwitter, BsFacebook, BsInstagram} from 'react-icons/bs';
 
 const SocialMediaIcons = () => {
   return (
@@ -13,24 +13,25 @@ const SocialMediaIcons = () => {
         </a>
 
         <a className='hover:opacity-50 transition duration-500'
-        href="https://www.linkedin.com"
+        href="https://www.Twitter.com"
         target="_blank"
         rel="noreferrer">
-<img alt="linkedin-link" src="../assets/linkedin.png"/>
+<BsTwitter alt="Twitter-link" size={30}/>
+
         </a>
 
         <a className='hover:opacity-50 transition duration-500'
-        href="https://www.linkedin.com"
+        href="https://www.Facebook.com"
         target="_blank"
         rel="noreferrer">
-<img alt="linkedin-link" src="../assets/linkedin.png"/>
+<BsFacebook alt="Facebook-link" size={30}/>
         </a>
 
         <a className='hover:opacity-50 transition duration-500'
-        href="https://www.linkedin.com"
+        href="https://www.Instagram.com"
         target="_blank"
         rel="noreferrer">
-<img alt="linkedin-link" src="../assets/linkedin.png"/>
+<BsInstagram alt="Instagram-link" size={30}/>
         </a>
 
         </div>
