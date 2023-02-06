@@ -59,4 +59,9 @@
 // value = String(value);
 // alert(typeof value);
 
-alert( "6" / "2");
+// 
+
+let x = 1;
+
+x = -x;
+alert( x );
