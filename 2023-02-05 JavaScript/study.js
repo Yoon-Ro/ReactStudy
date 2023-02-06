@@ -46,5 +46,17 @@
 //todo 간단한 페이지 만들기
 //todo 사용자에게 이름을 물어보고, 입력받은 이름을 그대로 출력해주는 페이지로 만드세요.
 
-let name = prompt('What is your name?', 'ex) John');
-alert(`Your name is ${name}.`);
+// let name = prompt('What is your name?', 'ex) John');
+// alert(`Your name is ${name}.`);
+
+
+// * String(value) 함수를 호출해 전달받은 값을 문자열로 변환 할 수도 있습니다.
+
+
+// let value = true;
+// alert(typeof value);
+
+// value = String(value);
+// alert(typeof value);
+
+alert( "6" / "2");
