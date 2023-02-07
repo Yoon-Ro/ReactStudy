@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=S4IxZl1hmjQ&list=PLXeLy47_mDjDIsBbFZ7zQYStClrP-D
 
 ## Note
 
-#### Line Height
+### Line Height
 
 > User leading-#
 
@@ -25,7 +25,7 @@ Line height looks good with 1.25 or 1.5 value of origianl font size
 ex) 18px font looks good with 24px of line height (leading-6 ~ leading-8)
 
 
-#### npm smooth scroll
+### npm smooth scroll
 
 1. Install React Scroll
 
@@ -42,7 +42,7 @@ import { Link } from "react-scroll";
 ```
 
 
-#### import js data into jsx
+### import js data into jsx
 
 ```jsx
 {logos.map((logo, index) => (
@@ -65,7 +65,7 @@ export const logos = [logo1, logo2, logo3, logo4, logo5, logo6];
 ```
 
 
-#### Letter spacing in Tailwind 
+### Letter spacing in Tailwind 
 
 | Class | Properties |
 | `tracking-tighter` | letter-spacing: -0.05em; |
@@ -75,7 +75,7 @@ export const logos = [logo1, logo2, logo3, logo4, logo5, logo6];
 | `tracking-wider` | letter-spacing: 0.05em; |
 | `tracking-widest` | letter-spacing: 0.1em; |
 
-#### Install Vite + Tailwind
+### Install Vite + Tailwind
 
 [https://vitejs.dev/guide/](https://vitejs.dev/guide/)
 
@@ -83,7 +83,7 @@ export const logos = [logo1, logo2, logo3, logo4, logo5, logo6];
 
 
 
-#### Import Google Fonts in Tailwind
+### Import Google Fonts in Tailwind
 
 
 ```jsx

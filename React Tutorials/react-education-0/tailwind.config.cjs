@@ -17,11 +17,11 @@ module.exports = {
         gray: "#4B4B4C"
       },
       animation: {
-        slide: "slide 25s linear infinite"
+        slide: "slide 100s linear infinite"
       },
       keyframes: {
         slide: {
-          "0%,100%" : {transform: "translateX(5%)"},
+          "0%,100%" : {transform: "translateX(4%)"},
           "50%": {transform: "translateX(-120%)"}
         }
       }
