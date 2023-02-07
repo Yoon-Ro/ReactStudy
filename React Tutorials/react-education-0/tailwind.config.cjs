@@ -22,7 +22,7 @@ module.exports = {
       keyframes: {
         slide: {
           "0%,100%" : {transform: "translateX(4%)"},
-          "50%": {transform: "translateX(-120%)"}
+          "50%": {transform: "translateX(-20%)"}
         }
       }
     },
