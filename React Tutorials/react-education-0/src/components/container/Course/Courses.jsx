@@ -3,9 +3,27 @@ import { categories } from "../../../Data";
 import { courses } from "../../../Data";
 import Categories from "./Categories";
 import Course from "./Course";
+import {motion} from "framer-motion";
 
 
 const Courses = () => {
+  // const container = {
+  //   hidden: {
+  //     opacity: 0,
+  //     scale: 0,
+  //   },
+  //   visible: {
+  //     opacity: 1,
+  //     scale: 1,
+  //     transition: {
+  //       delayChildren: 0.3,
+  //       staggerChildren: 0.3,
+  //     }
+  //   }
+  // }
+
+
+
   return (
     <div className='section' id='courses'>
       {/* MAIN CENTER TEXT */}
@@ -19,7 +37,13 @@ const Courses = () => {
       </div>
 
 {/* CATEGORY GRID */}
-    <div className='grid md:grid-cols-4 sm:grid-cols-2 mt-12 gap-8'>
+    <div 
+      // variants={container}
+      // initial="hidden"
+      // whileInView="visible"
+    
+    
+    className='grid md:grid-cols-4 sm:grid-cols-2 mt-12 gap-8'>
       {categories.map((category) => {
         return <Categories key={category.id} {...category}/>
       })}

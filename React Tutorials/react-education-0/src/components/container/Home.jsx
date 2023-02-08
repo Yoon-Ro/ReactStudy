@@ -1,8 +1,33 @@
 import React from "react";
 import hero from "../../assets/hero.png";
 import { logos } from "../../Data";
+import {motion} from "framer-motion";
 
 const Home = () => {
+  const container = {
+    hidden: {
+      opacity: 0,
+      scale: 0,
+    },
+    visible: {
+      opacity: 1,
+      scale: 1,
+      transition: {
+        delayChildren: 0.3,
+        staggerChilder: 0.2,
+      },
+    },
+
+  };
+
+
+
+  const item = {
+    hidden: {y:20, opacity: 0},
+    visible: {y:0, opacity: 1},
+  };
+
+  
   return (
     <div className="section" id="home">
       <div className="md:flex  items-center justify-center">
@@ -47,13 +72,14 @@ const Home = () => {
         </p>
 
         {/* HERO IMAGES */}
-        <div className="flex items-center justify-center flex-wrap gap-2 p-2">
+        <motion.div 
+        variant={container} initial="hidden" whileInView="visible" className="flex items-center justify-center flex-wrap gap-2 p-2">
           {logos.map((logo, index) => (
-            <div className="w-28" key={index}>
+            <motion.div variant={item} className="w-28" key={index}>
               <img src={logo} alt="/" className="w-full object-cover" />
-            </div>
+            </motion.div>
           ))}
-        </div>
+        </motion.div>
       </div>
     </div>
   );
