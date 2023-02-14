@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Erica+One&family=Poppins&family=Sigmar+One&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  
+img {
+  @apply w-full
+}
+
+.section {
+  @apply w-[1280px] mx-auto py-0 px-6 
+}
+
+}
